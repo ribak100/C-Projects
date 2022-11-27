@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1586704375 source:c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\booststuff.cpp
+	<iostream>
+	"\Users\IBRAHIM\Desktop\c++\Boost\boost_1_66_0\boost\random\random_device.hpp"
+	"\Users\IBRAHIM\Desktop\c++\Boost\boost_1_66_0\boost\random.hpp"
+	"\Users\IBRAHIM\Desktop\c++\Boost\boost_1_66_0\boost\multiprecision\cpp_int.hpp"
+
+1587134574 source:c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\decoration.cpp
+	"Decoration.h"
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<direct.h>
+	<process.h>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<time.h>
+
+1586877318 c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\decoration.h
+	"structures.h"
+
+1587835188 c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\structures.h
+	<string>
+
+1586699967 source:c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\ideone_nowiu2.cpp
+	<utility>
+	"\Users\IBRAHIM\Desktop\c++\Boost\boost_1_66_0\boost\multiprecision\cpp_int.hpp"
+
+1587129934 source:c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\mainmenu.cpp
+	"MainMenu.h"
+	"Decoration.h"
+	<iostream>
+	<conio.h>
+	<cstring>
+	<ctype.h>
+	<direct.h>
+	<process.h>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<time.h>
+
+1586871168 c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\mainmenu.h
+	"structures.h"
+
+1587835188 source:c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\queuepte.cpp
+	"QueuePte.h"
+
+1587835188 c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\queuepte.h
+
+1587835188 source:c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\queueptr.cpp
+
+1617277780 source:c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\main.cpp
+	<iostream>
+	<conio.h>
+	"QueuePtr.h"
+	<string>
+	<cstdlib>
+	<cmath>
+	"Decoration.h"
+	<windows.h>
+	<fstream>
+	"MainMenu.h"
+	"\Users\IBRAHIM\Desktop\c++\Boost\boost_1_66_0\boost\multiprecision\cpp_int.hpp"
+
+1587835188 c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\queueptr.h
+	<iostream>
+	"QueueNode.h"
+
+1587835188 c:\users\ibrahim\desktop\c++\discretelog and public cryposystem\queuenode.h
+
